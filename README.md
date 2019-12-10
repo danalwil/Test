@@ -1,6 +1,8 @@
 # Test
-I hope that you are having a wonderful day.
+I hope that you are having a wonderful day
 <br>
-As well as having a great week.
+As well as having a great week
 <br>
-And may the odds be ever in your favor.
+And may the odds be ever in your favor
+<br>
+Have a nice day!
